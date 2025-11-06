@@ -1,0 +1,5 @@
+aws s3 sync "s3://ocean-database/ROW_89/" "s3://prod-shaip-bucket/projects/row_89/"
+aws s3 sync "s3://ocean-database/ROW_353/" "s3://prod-shaip-bucket/projects/row_353/"
+aws s3 sync "s3://ocean-database/ROW_496/" "s3://prod-shaip-bucket/projects/row496/"
+aws s3 sync "s3://ocean-database/ROW_542/" "s3://prod-shaip-bucket/projects/row542/"
+aws s3 sync "s3://ocean-database/Drone/" "s3://prod-shaip-bucket/bhasha/Drone/"

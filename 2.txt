@@ -1,0 +1,44 @@
+Align Technology GmbH	ROW 89
+Amazon Web Services, Inc	USA 160
+Amazon Web Services, Inc	Project Marvel (ROW 122)
+Apple Inc.	Project Gose
+Apple Inc.	Dussel
+Apple Inc.	HASE
+Google, LLC	USA 202
+Google, LLC	USA 196
+REVERIE LANGUAGE TECHNOLOGIES LIMITED	REVERIE 2
+Google LLC	ROW 202
+Google, LLC	Project Maldives
+Google, LLC	USA 134
+Oracle America, Inc.	ROW 183
+Oracle America, Inc.	USA 78
+Oracle America, Inc.	ROW 85
+Oracle America, Inc.	OLV
+Oracle America, Inc.	Utter 2.0
+Tractable.AI	Tractable
+Oracle America, Inc.	USA 224
+Oracle America, Inc.	USA 188
+Panasonic	Pan India 1
+Amazon Web Services, Inc	AWS Medical Notes - Pilot
+Amazon Web Services, Inc	AWS Medical Oncology Notes
+Amazon Web Services, Inc	Lex
+Amazon Web Services, Inc	PII Annotation - 2021 (Aug)
+Amazon Web Services, Inc	AWS Medical Oncology Notes - SNOMED Coding
+Apple Inc.	Ajay ii
+Apple Inc.	Alzey
+Apple Inc.	ALF - 1
+Apple Inc.	Acher
+Apple Inc.	PAAR
+Apple Inc.	Sydney
+Oracle America, Inc.	Utter 1
+Oracle America, Inc.	Exsal
+Oracle America, Inc.	ODIC
+Oracle America, Inc.	Long Audio Transcription
+Cogknit Semantics Pvt Ltd	COG 2
+Oracle America, Inc.	ROW 441
+Oracle America, Inc.	USA 300 - Keyword Collection
+Oracle America, Inc.	USA 369 - Call Center OTS
+Amazon Web Services, Inc	Bhasha
+Oracle America, Inc.	USA 147
+NSL Hub	NH
+Amazon Web Services, Inc	Nile
